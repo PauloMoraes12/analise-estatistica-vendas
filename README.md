@@ -1,16 +1,16 @@
-# 📊 Análise Estatística de Vendas com Python
+# Análise Estatística de Vendas com Python
 
 > Projeto de análise exploratória com foco em estatística descritiva para compreensão do comportamento de vendas.
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Analisar um conjunto de dados de vendas simulados para identificar padrões, comportamento central dos dados e impacto de valores atípicos (outliers) na tomada de decisão.
 
 ---
 
-## 🧠 O que foi feito
+## O que foi feito
 
 - Criação de dataset de vendas
 - Exploração inicial dos dados
@@ -22,7 +22,7 @@ Analisar um conjunto de dados de vendas simulados para identificar padrões, com
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python  
 - Pandas  
@@ -31,7 +31,7 @@ Analisar um conjunto de dados de vendas simulados para identificar padrões, com
 
 ---
 
-## 📈 Principais Insights
+## Principais Insights
 
 - A mediana representa melhor o valor típico das vendas devido à presença de outliers  
 - A média é impactada por valores extremos  
@@ -41,7 +41,7 @@ Analisar um conjunto de dados de vendas simulados para identificar padrões, com
 ---
 
 ```
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 ├── analise_estatistica_vendas.ipynb
@@ -50,7 +50,7 @@ Analisar um conjunto de dados de vendas simulados para identificar padrões, com
 
 ---
 
-## 🚀 Aplicação prática
+## Aplicação prática
 
 Este tipo de análise pode ser utilizado para:
 
@@ -61,7 +61,7 @@ Este tipo de análise pode ser utilizado para:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Paulo Victor Moraes Lima  
 Data Science em formação (FIAP)

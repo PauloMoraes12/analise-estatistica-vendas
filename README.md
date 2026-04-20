@@ -40,12 +40,13 @@ Analisar um conjunto de dados de vendas simulados para identificar padrões, com
 
 ---
 
+```
 ## 📂 Estrutura do Projeto
 
-'''analise-estatistica-vendas/
+```text
 ├── analise_estatistica_vendas.ipynb
 └── README.md
-
+```
 
 ---
 

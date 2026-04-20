@@ -41,3 +41,26 @@ Analisar um conjunto de dados de vendas simulados para identificar padrões, com
 ---
 
 ## 📂 Estrutura do Projeto
+
+'''analise-estatistica-vendas/
+├── analise_estatistica_vendas.ipynb
+└── README.md
+
+
+---
+
+## 🚀 Aplicação prática
+
+Este tipo de análise pode ser utilizado para:
+
+- Identificar padrões de vendas  
+- Apoiar decisões comerciais  
+- Detectar comportamentos fora do padrão  
+- Melhorar estratégias de precificação  
+
+---
+
+## 👨‍💻 Autor
+
+Paulo Victor Moraes Lima  
+Data Science em formação (FIAP)
